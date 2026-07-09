@@ -1,0 +1,12 @@
+[Added Associations]
+application/json=codium.desktop;firefox.desktop;
+audio/flac=mpv.desktop;firefox.desktop;re.fossplant.songrec.desktop;
+
+[Default Applications]
+application/json=codium.desktop;
+audio/flac=mpv.desktop;
+x-scheme-handler/pttp=CiscoPacketTracerPtsa-9.0.0.desktop
+application/x-pka=CiscoPacketTracer-9.0.0.desktop
+application/x-pkt=CiscoPacketTracer-9.0.0.desktop
+application/x-pkz=CiscoPacketTracer-9.0.0.desktop
+application/x-pksz=CiscoPacketTracer-9.0.0.desktop

@@ -1,0 +1,74 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "27281abe24ec976586c0e2f192c57cd004ebd678938be9ebf07012d079db1dc0",
+    "telemetry.devDeviceId": "1a962fc1-04e2-48af-9d2a-bde4f38c25c5",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1782913386504"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ni/.local/share/Steam/steamapps/common/Left%204%20Dead%202": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1782913386504": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/ni/.config/VSCodium/Backups/1782913386504",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 955,
+                "height": 1025
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#272822",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#272822",
+            "editorBackground": "#272822",
+            "titleBarBackground": "#1e1f1c",
+            "activityBarBackground": "#272822",
+            "sideBarBackground": "#1e1f1c",
+            "statusBarBackground": "#414339",
+            "statusBarNoFolderBackground": "#414339"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 203,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "0f8e160a74317eff40f709004bff5134": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
