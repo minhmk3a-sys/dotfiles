@@ -1,0 +1,19 @@
+pacman -Qqe > packages/pacman.txt  //  sudo pacman -S --needed - < packages/pacman.txt
+
+pacman -Qqem > packages/aur.txt
+
+pacman -Qent > packages/explicit.txt
+
+flatpak list --app --columns=application > packages/flatpak.txt
+
+systemctl --user list-unit-files --state=enabled
+
+mkdir ~/dotfiles
+cp -r ~/.config ~/dotfiles/
+
+cd ~/dotfiles
+git init
+git add .
+git commit -m "Initial dotfiles"
+
+git push -u origin main --force
